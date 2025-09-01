@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Editor Pro",
+  "description": "An AI-powered photo editor using Gemini to transform your images with text prompts. Features Google login, a credit system with Razorpay payments, and saves your creations directly to Google Drive.",
+  "requestFramePermissions": []
+}
